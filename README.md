@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/trolleway/leethub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/trolleway/leethub/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/trolleway/leethub/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/trolleway/leethub/tree/master/0035-search-insert-position) |
 | [0605-can-place-flowers](https://github.com/trolleway/leethub/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trolleway/leethub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/trolleway/leethub/tree/master/1732-find-the-highest-altitude) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trolleway/leethub/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/trolleway/leethub/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
