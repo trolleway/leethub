@@ -1,9 +1,11 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        nums2=sorted(nums)
-        for i in range(1,len(nums2)):
-            if nums2[i]==nums2[i-1]:
+        seen = set()
+        for num in nums:
+            if num in seen:
                 return True
+            else:
+                seen.add(num)
         return False
         """
         сортировать массив
