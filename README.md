@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trolleway/leethub/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/trolleway/leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trolleway/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/trolleway/leethub/tree/master/0345-reverse-vowels-of-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trolleway/leethub/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/trolleway/leethub/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/trolleway/leethub/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trolleway/leethub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/trolleway/leethub/tree/master/1732-find-the-highest-altitude) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trolleway/leethub/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/trolleway/leethub/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
