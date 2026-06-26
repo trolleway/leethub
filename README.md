@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/trolleway/leethub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/trolleway/leethub/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trolleway/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/trolleway/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/trolleway/leethub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/trolleway/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/trolleway/leethub/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/trolleway/leethub/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/trolleway/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/trolleway/leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/trolleway/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/trolleway/leethub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/trolleway/leethub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/trolleway/leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/trolleway/leethub/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/trolleway/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/trolleway/leethub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/trolleway/leethub/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/trolleway/leethub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/trolleway/leethub/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/trolleway/leethub/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/trolleway/leethub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
