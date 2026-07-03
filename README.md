@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/trolleway/leethub/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/trolleway/leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/trolleway/leethub/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/trolleway/leethub/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/trolleway/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/trolleway/leethub/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/trolleway/leethub/tree/master/0844-backspace-string-compare) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/trolleway/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/trolleway/leethub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/trolleway/leethub/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/trolleway/leethub/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/trolleway/leethub/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/trolleway/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/trolleway/leethub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/trolleway/leethub/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/trolleway/leethub/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/trolleway/leethub/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/trolleway/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/trolleway/leethub/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/trolleway/leethub/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/trolleway/leethub/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/trolleway/leethub/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/trolleway/leethub/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/trolleway/leethub/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
