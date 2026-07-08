@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trolleway/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/trolleway/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/trolleway/leethub/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/trolleway/leethub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/trolleway/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/trolleway/leethub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/trolleway/leethub/tree/master/0287-find-the-duplicate-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/trolleway/leethub/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/trolleway/leethub/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/trolleway/leethub/tree/master/1732-find-the-highest-altitude) |
 ## Trie
