@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/trolleway/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/trolleway/leethub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/trolleway/leethub/tree/master/1732-find-the-highest-altitude) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/trolleway/leethub/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/trolleway/leethub/tree/master/0844-backspace-string-compare) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/trolleway/leethub/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/trolleway/leethub/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/trolleway/leethub/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
